@@ -1,0 +1,14 @@
+{
+  "name": "phase-1.2-back-end",
+  "version": "1.0.0",
+  "description": "In this challenge, the goal is to examine your back-end skills in creating the backbone structure of an application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Ignatius Sani",
+  "license": "ISC"
+}
