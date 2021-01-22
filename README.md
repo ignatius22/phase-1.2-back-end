@@ -67,11 +67,7 @@ A successful response for the above request should return the following schema (
 }
 ```
 
-### Submission
 
-You must submit a link to the client and to the Github code **7 days** after applying to the program. Failure to do so would result in your disqualification.
-
-- [Submission Link](https://airtable.com/shrZUGXL4dCK9v05c)
 
 ### Resources
 
