@@ -1,4 +1,4 @@
-[demo link](https://infinite-cliffs-24546.herokuapp.com/api/rates)
+[demo link](https://infinite-cliffs-24546.herokuapp.com/api/rates?base=CZK&currency=EUR)
 ### Purpose
 
 In this challenge, the goal is to examine your back-end skills in creating the backbone structure of an application

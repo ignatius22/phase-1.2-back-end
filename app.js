@@ -3,8 +3,6 @@ const app = express()
 const dataRoute = require('./route')
 
 
-
-
 app.use('/api', dataRoute);
 
 
